@@ -27,7 +27,7 @@ private By mobile = By.linkText("MOBILE");
 private By sonyPriceFromList = By.id("product-price-1");
 private By sonyExperia = By.xpath("//a[text()='Sony Xperia']");
 private By sonyPriceFromDetail = By.id("product-price-1");
-private int scc = 0;
+
 	@BeforeTest
 	public void startUp() {
 		System.setProperty("webdriver.chrome.driver",  "resources//chromedriver.exe");

@@ -2,45 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-<<<<<<< HEAD
-  <suite started-at="2023-10-02T20:49:17 IST" name="Default suite" finished-at="2023-10-02T20:49:26 IST" duration-ms="9294">
+  <suite started-at="2023-10-02T21:53:15 IST" name="Default suite" finished-at="2023-10-02T21:53:25 IST" duration-ms="10267">
     <groups>
     </groups>
-    <test started-at="2023-10-02T20:49:17 IST" name="Default test" finished-at="2023-10-02T20:49:26 IST" duration-ms="9294">
-      <class name="testCases.TestCase2">
-        <test-method is-config="true" signature="startUp()[pri:0, instance:testCases.TestCase2@2b71e916]" started-at="2023-10-02T20:49:17 IST" name="startUp" finished-at="2023-10-02T20:49:19 IST" duration-ms="2065" status="PASS">
+    <test started-at="2023-10-02T21:53:15 IST" name="Default test" finished-at="2023-10-02T21:53:25 IST" duration-ms="10267">
+      <class name="testCases.TestCase3">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testCases.TestCase3@62379589]" started-at="2023-10-02T21:53:15 IST" name="startUp" finished-at="2023-10-02T21:53:17 IST" duration-ms="1868" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startUp -->
-        <test-method signature="testDay2TestCase2()[pri:0, instance:testCases.TestCase2@2b71e916]" started-at="2023-10-02T20:49:19 IST" name="testDay2TestCase2" finished-at="2023-10-02T20:49:26 IST" duration-ms="6921" status="PASS">
+        <test-method signature="testDay3TestCase3()[pri:0, instance:testCases.TestCase3@62379589]" started-at="2023-10-02T21:53:17 IST" name="testDay3TestCase3" finished-at="2023-10-02T21:53:25 IST" duration-ms="8115" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testDay2TestCase2 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestCase2@2b71e916]" started-at="2023-10-02T20:49:26 IST" name="tearDown" finished-at="2023-10-02T20:49:26 IST" duration-ms="272" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TestCase2 -->
-=======
-  <suite started-at="2023-09-30T21:14:26 IST" name="Default suite" finished-at="2023-09-30T21:14:38 IST" duration-ms="12797">
-    <groups>
-    </groups>
-    <test started-at="2023-09-30T21:14:26 IST" name="Default test" finished-at="2023-09-30T21:14:38 IST" duration-ms="12797">
-      <class name="testCases.TestCase1">
-        <test-method is-config="true" signature="startUp()[pri:0, instance:testCases.TestCase1@6bbe85a8]" started-at="2023-09-30T21:14:26 IST" name="startUp" finished-at="2023-09-30T21:14:31 IST" duration-ms="5761" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- startUp -->
-        <test-method signature="testDay1TestCase1()[pri:0, instance:testCases.TestCase1@6bbe85a8]" started-at="2023-09-30T21:14:31 IST" name="testDay1TestCase1" finished-at="2023-09-30T21:14:38 IST" duration-ms="6619" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testDay1TestCase1 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestCase1@6bbe85a8]" started-at="2023-09-30T21:14:38 IST" name="tearDown" finished-at="2023-09-30T21:14:38 IST" duration-ms="330" status="PASS">
+        </test-method> <!-- testDay3TestCase3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestCase3@62379589]" started-at="2023-10-02T21:53:25 IST" name="tearDown" finished-at="2023-10-02T21:53:25 IST" duration-ms="252" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TestCase1 -->
->>>>>>> 05e5cd469d034799366ecf1824df3386e4a72884
+      </class> <!-- testCases.TestCase3 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
