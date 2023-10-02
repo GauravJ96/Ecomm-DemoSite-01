@@ -38,10 +38,18 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/Users/Shree/Downloads/commons-io-2.14.0/commons-io-2.14.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Shree/Downloads/commons-io-2.14.0/commons-io-2.14.0-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Shree/Downloads/commons-io-2.14.0/commons-io-2.14.0-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Shree/Downloads/commons-io-2.14.0/commons-io-2.14.0-tests.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Shree/Downloads/commons-io-2.14.0/commons-io-2.14.0-test-sources.jar"/>
+=======
+	<classpathentry kind="lib" path="C:/Users/gaura/Downloads/commons-io-2.14.0-bin/commons-io-2.14.0/commons-io-2.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gaura/Downloads/commons-io-2.14.0-bin/commons-io-2.14.0/commons-io-2.14.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gaura/Downloads/commons-io-2.14.0-bin/commons-io-2.14.0/commons-io-2.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gaura/Downloads/commons-io-2.14.0-bin/commons-io-2.14.0/commons-io-2.14.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gaura/Downloads/commons-io-2.14.0-bin/commons-io-2.14.0/commons-io-2.14.0-test-sources.jar"/>
+>>>>>>> 05e5cd469d034799366ecf1824df3386e4a72884
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

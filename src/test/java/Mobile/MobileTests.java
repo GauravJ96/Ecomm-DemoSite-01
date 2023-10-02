@@ -1,8 +1,19 @@
 package Mobile;
 
+<<<<<<< HEAD
 import org.testng.annotations.Test;
 
 import base.BaseTests;
+=======
+import static org.testng.Assert.assertEquals;
+import static org.testng.Assert.assertTrue;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Test;
+
+import base.BaseTests;
+import pages.MobilePage;
+>>>>>>> 05e5cd469d034799366ecf1824df3386e4a72884
 
 public class MobileTests extends BaseTests{
 

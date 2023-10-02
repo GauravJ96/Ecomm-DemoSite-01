@@ -3,6 +3,7 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
+<<<<<<< HEAD
       <class name="testCases.TestCase2">
         <methods>
           <include name="tearDown"/>
@@ -10,6 +11,15 @@
           <include name="startUp"/>
         </methods>
       </class> <!-- testCases.TestCase2 -->
+=======
+      <class name="Mobile.MobileTests">
+        <methods>
+          <include name="verifyMobileTests"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Mobile.MobileTests -->
+>>>>>>> 05e5cd469d034799366ecf1824df3386e4a72884
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
