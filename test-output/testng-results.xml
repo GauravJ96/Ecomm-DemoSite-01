@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-02T21:53:15 IST" name="Default suite" finished-at="2023-10-02T21:53:25 IST" duration-ms="10267">
+  <suite started-at="2023-10-03T22:43:52 IST" name="Default suite" finished-at="2023-10-03T22:44:02 IST" duration-ms="10729">
     <groups>
     </groups>
-    <test started-at="2023-10-02T21:53:15 IST" name="Default test" finished-at="2023-10-02T21:53:25 IST" duration-ms="10267">
-      <class name="testCases.TestCase3">
-        <test-method is-config="true" signature="startUp()[pri:0, instance:testCases.TestCase3@62379589]" started-at="2023-10-02T21:53:15 IST" name="startUp" finished-at="2023-10-02T21:53:17 IST" duration-ms="1868" status="PASS">
+    <test started-at="2023-10-03T22:43:52 IST" name="Default test" finished-at="2023-10-03T22:44:02 IST" duration-ms="10729">
+      <class name="testcase.TestCase4">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcase.TestCase4@1d296da]" started-at="2023-10-03T22:43:52 IST" name="setUp" finished-at="2023-10-03T22:43:53 IST" duration-ms="1721" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- startUp -->
-        <test-method signature="testDay3TestCase3()[pri:0, instance:testCases.TestCase3@62379589]" started-at="2023-10-02T21:53:17 IST" name="testDay3TestCase3" finished-at="2023-10-02T21:53:25 IST" duration-ms="8115" status="PASS">
+        </test-method> <!-- setUp -->
+        <test-method signature="testVerifyPopupContent()[pri:0, instance:testcase.TestCase4@1d296da]" started-at="2023-10-03T22:43:53 IST" name="testVerifyPopupContent" finished-at="2023-10-03T22:44:02 IST" duration-ms="8729" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testDay3TestCase3 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestCase3@62379589]" started-at="2023-10-02T21:53:25 IST" name="tearDown" finished-at="2023-10-02T21:53:25 IST" duration-ms="252" status="PASS">
+        </test-method> <!-- testVerifyPopupContent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.TestCase4@1d296da]" started-at="2023-10-03T22:44:02 IST" name="tearDown" finished-at="2023-10-03T22:44:02 IST" duration-ms="239" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TestCase3 -->
+      </class> <!-- testcase.TestCase4 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
