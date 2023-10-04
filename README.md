@@ -10,3 +10,6 @@ Test Case-3 Requirement
 
 Test Case-4 Requirement
 ![image](https://github.com/GauravJ96/Ecomm-DemoSite-Automation/assets/91626540/ef4fe0c2-2809-46d4-bfac-6eea94121288)
+
+Test Case-5 Requirement
+![image](https://github.com/GauravJ96/Ecomm-DemoSite-Automation/assets/91626540/0d81a5ad-b6c7-4bdc-8dd3-bb4c08aee8ed)
