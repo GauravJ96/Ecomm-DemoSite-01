@@ -16,3 +16,6 @@ Test Case-5 Requirement
 
 Test Case-6 Requirement
 ![image](https://github.com/GauravJ96/Ecomm-DemoSite-Automation/assets/91626540/3a08d378-270a-4610-b43f-859de42d65d7)
+
+Test Case-7 Requirement
+![image](https://github.com/GauravJ96/Ecomm-DemoSite-Automation/assets/91626540/3066c937-8485-4133-9150-cae12e9ec0bb)
